@@ -1,0 +1,17 @@
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\bin\Debug\net6.0\File, JsonSerialize.exe
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\bin\Debug\net6.0\File, JsonSerialize.deps.json
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\bin\Debug\net6.0\File, JsonSerialize.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\bin\Debug\net6.0\File, JsonSerialize.dll
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\bin\Debug\net6.0\File, JsonSerialize.pdb
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.csproj.AssemblyReference.cache
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.csproj.CopyComplete
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.dll
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\refint\File, JsonSerialize.dll
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.pdb
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\File, JsonSerialize.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\File, JsonSerialize\File, JsonSerialize\obj\Debug\net6.0\ref\File, JsonSerialize.dll

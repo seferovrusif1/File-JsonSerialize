@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sfn0tYU6zSsnaGn0H84c9tR8BUiE1dVQXpvt/45d+FjgQwUPLOjbnP0/aIqtOWoAHkWnIvkd8eOHc4nNyFQ4Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sefer\\OneDrive\\Desktop\\File, JsonSerialize\\File, JsonSerialize\\File, JsonSerialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sefer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
